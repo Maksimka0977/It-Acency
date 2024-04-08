@@ -314,15 +314,15 @@ html, body {
 }
 
 .instagram {
-  background-image: url(../../img/icon-instagram.svg);
+  background-image: url(../img/icon-instagram.svg);
 }
 
 .linkedin {
-  background-image: url(../../img/icon-linkedin.svg);
+  background-image: url(../img/icon-linkedin.svg);
 }
 
 .facebook {
-  background-image: url(../../img/icon-facebook.svg);
+  background-image: url(../img/icon-facebook.svg);
 }
 
 .footer {
@@ -823,12 +823,12 @@ html, body {
 }
 
 .review-btn-prev {
-  background-image: url(../../img/icon-arrow-left.svg);
+  background-image: url(../img/icon-arrow-left.svg);
   left: 15px;
 }
 
 .review-btn-next {
-  background-image: url(../../img/icon-arrow-right.svg);
+  background-image: url(../img/icon-arrow-right.svg);
   right: 15px;
 }
 
@@ -905,7 +905,7 @@ html, body {
   width: 70px;
   height: 70px;
   background-color: rgb(253, 190, 59);
-  background-image: url(../../img/icon-marketing.svg);
+  background-image: url(../img/icon-marketing.svg);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -948,7 +948,7 @@ html, body {
   width: 16px;
   height: 16px;
   margin-left: 20px;
-  background-image: url(../../img/icon-arrow.svg);
+  background-image: url(../img/icon-arrow.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -963,27 +963,27 @@ html, body {
 
 .dev::before {
   background-color: #FF7642;
-  background-image: url(../../img/icon-dev.svg);
+  background-image: url(../img/icon-dev.svg);
 }
 
 .marketing::before {
   background-color: #DAA22C;
-  background-image: url(../../img/icon-marketing.svg);
+  background-image: url(../img/icon-marketing.svg);
 }
 
 .branding::before {
   background-color: #F6A364;
-  background-image: url(../../img/icon-marketing.svg);
+  background-image: url(../img/icon-marketing.svg);
 }
 
 .startups::before {
   background-color: #2196F3;
-  background-image: url(../../img/icon-brand.svg);
+  background-image: url(../img/icon-brand.svg);
 }
 
 .motion::before {
   background-color: #34BAAA;
-  background-image: url(../../img/icon-motion.svg);
+  background-image: url(../img/icon-motion.svg);
 }
 
 .works {
