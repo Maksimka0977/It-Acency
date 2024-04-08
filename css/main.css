@@ -448,7 +448,7 @@ html, body {
   position: absolute;
   left: 0;
   right: 0;
-  background-image: url(../../img/icon-mouse.svg);
+  background-image: url(../img/icon-mouse.svg);
   background-position: center;
   background-repeat: no-repeat;
   height: 35px;
